@@ -51,7 +51,7 @@ Pero paso a paso, que apenas acabamos de empezar.
 El [General Kenobi](https://twitter.com/KenobiNakamoto) de la Comunidad de [Bitcoin Barcelona](https://twitter.com/bcnbitcoinonly) es el  creador principal de esta iniciativa abierta.
 Cualquier duda o sugerencia, no dudes en contactarme por Twitter o Telegram.
 
-[Red Purdy](https://twitter.com/Red_Purdy) ha ofrecido ayuda y consejo en cuento a los documentos preparados.
+[Red Purdy](https://twitter.com/Red_Purdy) ha ofrecido ayuda y consejo en la creacion de los documentos.
 
 
 Muchas gracias por leer, que el Hash este contigo.
