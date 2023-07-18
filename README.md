@@ -36,12 +36,19 @@ Pero paso a paso, que apenas acabamos de empezar.
 # Como Votar Bitcoin
 
 1- Utiliza uno o varios de los documentos ya preparados
+
 2- Modificalos a tu gusto o dejalós tal y como estan
+
 3- Imprimelos asegurandote de que tengan un tamaño de unos 15cm de ancho y 22cm de alto.
+
     3.1- La idea es que lo puedas doblar y entre perfectamente en el sobre electoral. El tamaño del sobre electoral es de unos 16cm de largo con unos 11,5 cm de alto. Asi que con 15x22cm y doblandolo por la mitad, no deberias tener problemas.
+    
 4- Ponlos dentro de tu sobre electoral
+
 5- Vota Nulo! Vota Bitcoin!
+
 6- ???
+
 7- Profit?
 
 # Contribuidores
