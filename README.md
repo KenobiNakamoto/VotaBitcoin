@@ -4,7 +4,7 @@ Bienvenido a la primera version del proyecto abierto "Vota Bitcoin"!
 
 La idea de "Vota Bitcoin" es la de utilizar los procesos democráticos españoles con tal de reivindicar nuestra disconformidad con el sistema, además de demostrar nuestro apoyo por la adopción y educación de Bitcoin en España. Continua leyendo para saber el como y el porque de este proyecto.
 
-# Introducción
+# Introducción y propósito del proyecto
 
 Si eres Bitcoiner, sabes que el sistema actual de "izquierdas vs derechas" no es mas que una técnica de "divide y vencerás". Por ende, muchos de nosotros decidimos abstenernos a votar, _con tal de quitarle legitimidad al sistema al no participar en el mismo_.
 
