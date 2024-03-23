@@ -8,13 +8,8 @@ El gobierno de Cataluña ha anunciado elecciones anticipadas que se celebrarán 
 ### Como Votar Bitcoin
 Si eres bitcoiner, resides en Cataluña y has decidido votar Bitcoin sigue estos pasos:
 
-<ol>
-  <li>Navega a "Documentos para Imprimir"->"Borrador_Ideas"</li>
-  <li>Descargate el documento "Vota Bitcoin Cataluña_Imprimir.pdf".</li>
-  <li>Imprímelo asegurandote de que tengan un tamaño de unos 15cm de ancho y 22cm de alto
-    <ol>
-      <li>La idea es que lo puedas doblar y entre perfectamente en el sobre electoral</li>
-      <li>El tamaño del sobre electoral es de unos 16cm de largo con unos 11,5 cm de alto</li>
-    </ol>
-  <li>Ponlos dentro de tu sobre electoral</li>
-</ol>
+1. Navega a "Documentos para Imprimir"->"Borrador_Ideas"
+2. Descargate el documento "Vota Bitcoin Cataluña_Imprimir.pdf".
+3. Imprimelo.
+5. Ponlos dentro de tu sobre electoral.
+6. ***Vota Nulo! Vota Bitcoin!***
