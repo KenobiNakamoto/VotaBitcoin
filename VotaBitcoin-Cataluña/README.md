@@ -14,7 +14,7 @@ Si eres bitcoiner, resides en Cataluña y has decidido votar Bitcoin sigue estos
 5. Introduce el documento dentro de tu sobre electoral.
 6. ***Vota Nulo! Vota Bitcoin!***
 
-7. # Contribuidores
+ # Contribuidores
 
 El [General Kenobi](https://twitter.com/KenobiNakamoto) de la Comunidad de [Bitcoin Barcelona](https://twitter.com/bcnbitcoinonly) es el  creador principal de esta iniciativa abierta.
 Cualquier duda o sugerencia, no dudes en contactarme por Twitter o Telegram.
