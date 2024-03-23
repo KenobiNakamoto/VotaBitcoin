@@ -1,4 +1,4 @@
-### VotaBitcoin Cataluña
+# VotaBitcoin Cataluña
 >Lee el README de la pagina principal para entender bien el propósito de esta iniciativa
 
 El gobierno de Cataluña ha anunciado elecciones anticipadas que se celebrarán este 22 de mayo de 2024. La idea es replicar la iniciativa VotaBitcoin a nivel municipal en Cataluña, en esta y en futuras elecciones de la comunidad autonoma.
