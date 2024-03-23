@@ -10,6 +10,6 @@ Si eres bitcoiner, resides en Cataluña y has decidido votar Bitcoin sigue estos
 
 1. Navega a "Documentos para Imprimir"->"Borrador_Ideas"
 2. Descargate el documento "Vota Bitcoin Cataluña_Imprimir.pdf".
-3. Imprimelo.
+3. Imprímelo.
 5. Ponlos dentro de tu sobre electoral.
 6. ***Vota Nulo! Vota Bitcoin!***
