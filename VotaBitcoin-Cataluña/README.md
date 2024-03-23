@@ -5,8 +5,8 @@ El gobierno de Cataluña ha anunciado elecciones anticipadas que se celebrarán 
 
 ------------
 
-###Como Votar Bitcoin
-###### Si eres bitcoiner, resides en Cataluña y has decidido votar Bitcoin sigue estos pasos:
+### Como Votar Bitcoin
+Si eres bitcoiner, resides en Cataluña y has decidido votar Bitcoin sigue estos pasos:
 
 <ol>
   <li>Navega a "Documentos para Imprimir"->"Borrador_Ideas"</li>
